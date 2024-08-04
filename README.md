@@ -11,7 +11,7 @@ HTML: Provides the structure of the application.
 CSS: Styles the application to give it a clean and modern look.
 JavaScript: Handles the logic for fetching and updating the current time for each city.
 
-###Getting Started
+##Getting Started
 ***Prerequisites***
 To run this application, you only need a web browser.
 ***Installation***
