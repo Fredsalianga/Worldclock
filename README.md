@@ -1,4 +1,4 @@
-#World Clock App
+World Clock App
 
 
 
