@@ -1,17 +1,17 @@
-#World Clock App
+World Clock App
 This is a simple world clock application built using HTML, CSS, and JavaScript. The app displays the current time for four major cities around the world: New York, London, Tokyo, and Sydney. The time is updated every second to ensure accuracy.
 
-###Features
+Features
 Displays the current time for New York, London, Tokyo, and Sydney.
 Real-time updates every second.
 Simple and clean user interface.
 
-##Technologies Used
+Technologies Used
 HTML: Provides the structure of the application.
 CSS: Styles the application to give it a clean and modern look.
 JavaScript: Handles the logic for fetching and updating the current time for each city.
 
-##Getting Started
+Getting Started
 ***Prerequisites***
 To run this application, you only need a web browser.
 ***Installation***
